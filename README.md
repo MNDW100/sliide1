@@ -1,6 +1,6 @@
 # p5.js 슬라이더로 Arduino LED 밝기 조절해보겠습니다 
 프로젝트 소개: p5.js의 `createSlider()`로 0~255 범위의 밝기 값을 선택하고 Web Serial API를 이용하여 Arduino Uno로 전송하고 Arduino는 수신한 값을 `analogWrite()`에 적용하여 LED의 PWM을 변경하는 방식이다
-#회로도
+# 회로도
 <img width="951" height="615" alt="스크린샷 2026-11-02 212757" src="https://github.com/user-attachments/assets/68054242-9c2d-466f-bc67-d957bce1ccbf" />
 
 ## Arduino 코드
