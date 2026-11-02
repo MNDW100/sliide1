@@ -94,7 +94,7 @@ void taskSerialCallback()
 }
 ```
 # p5.js코드
-<iframe src="https://editor.p5js.org/MNDW100/full/Avq2FrCt6"></iframe>
+https://editor.p5js.org/MNDW100/sketches/Avq2FrCt6
 # 구현영상 
 
 # 고찰 
