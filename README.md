@@ -97,6 +97,11 @@ void taskSerialCallback()
 https://editor.p5js.org/MNDW100/sketches/Avq2FrCt6
 # 구현영상 
 
+
+https://github.com/user-attachments/assets/13dab2f4-439a-4b6a-8892-27e86014b0bb
+
+
+
 # 고찰 
 이번 프로젝트를 통해 p5.js 슬라이더의 값을 시리얼 통신으로 Arduino에 전달하고 PWM으로 LED 밝기를 조절하는 원리가 이해됐다. 특히 통신 속도와 줄바꿈 규칙을 맞추는 것이 중요하다느꼇고 값이 변경될 때만 전송하여 불필요한 통신을 줄일 수 있음을 알게되었다. 향후 Arduino의 응답을 받아 실제 적용값을 화면에 표시하면 연결 상태와 동작 여부를 더욱 명확하게 확인할 수 있을 것이다 
 
